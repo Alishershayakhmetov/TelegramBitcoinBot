@@ -10,7 +10,10 @@ You can install this project in the git Bash using this command
 
     git clone https://github.com/Alishershayakhmetov/TelegramBitcoinBot.git
 
-And run this project.
+Before running this project, run this code
+
+    pip install python-telegram-bot requests apscheduler
+    
 Don't forget to obtain a telegram TOKEN to create your own telegram bot.
 Save your TOKEN in env.
 
